@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practical05/Practical05.iml" filepath="$PROJECT_DIR$/Practical05/Practical05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practical06/Practical06.iml" filepath="$PROJECT_DIR$/Practical06/Practical06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practical07/Practical07.iml" filepath="$PROJECT_DIR$/Practical07/Practical07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practical08/Practical08.iml" filepath="$PROJECT_DIR$/Practical08/Practical08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practical09/Practical09.iml" filepath="$PROJECT_DIR$/Practical09/Practical09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practical10/Practical10.iml" filepath="$PROJECT_DIR$/Practical10/Practical10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practical11/Practical11.iml" filepath="$PROJECT_DIR$/Practical11/Practical11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ncu-csl303.iml" filepath="$PROJECT_DIR$/.idea/ncu-csl303.iml" />
+    </modules>
+  </component>
+</project>
